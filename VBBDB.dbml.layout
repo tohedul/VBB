@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="VBBDB">
+  <DataContextMoniker Name="/VBBDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="9fa55beb-eb8e-4121-a91f-e0e3ba90328d" absoluteBounds="0.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/VBBDBDataContext/Post" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9c871587-f0ff-469f-93cc-5bc9810ae58e" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="898dc54b-a11d-42e6-b5d1-74aa057d0ec1" absoluteBounds="0.75, 2.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/VBBDBDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7c9a22e7-9d51-4c85-b9c6-4deeba9cd3fd" absoluteBounds="0.765, 3.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
